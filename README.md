@@ -8,9 +8,10 @@ I'm sharing this here in case someone out there thinks this is useful, and doesn
 So feel free to simply use the [png file](LHC_Sketch.png) or start with the [original  svg](LHC_Sketch.svg) to modify this sketch to your liking. 
 
 ### What's shown:
-Two beam pipes (**dark grey**) in which proton bunches (**red & blue dots**) are circulated in opposite direction.  
-These proton bunches contain ~ **115.000.000.000** protons each.   
-You can also see the location of the 4 points where the beam pipes cross and proton bunches are collided (**yellow dots**).  
+
+Two beam pipes (**dark grey**) in which proton bunches (**red & blue dots**) are circulated in opposite direction.
+These proton bunches contain ~ **115.000.000.000** protons each.
+You can also see the location of the 4 points where the beam pipes cross and proton bunches are collided (**yellow dots**).
 These collisions are studied by the four main LHC experiements: **ATLAS**, **ALICE**, **CMS**, and **LHCb**.
 
 
